@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="PathGenApp" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="jarhead.Main" />
+    <module name="RRPathGen.main" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
